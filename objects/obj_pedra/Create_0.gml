@@ -1,0 +1,1 @@
+sprite_index = choose(spr_pedra1, spr_pedra2);

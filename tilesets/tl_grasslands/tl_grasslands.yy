@@ -1,0 +1,41 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"tl_grasslands",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"Gramado/Terra","closed_edge":true,"name":"Gramado/Terra","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[219,289,286,287,199,229,0,188,196,0,226,190,197,248,250,317,],},
+    {"$GMAutoTileSet":"","%Name":"Gramado/Agua","closed_edge":false,"name":"Gramado/Agua","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[219,470,466,374,380,402,0,372,0,0,405,375,463,462,465,408,],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"tl_grasslands",
+  "out_columns":29,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_tileset",
+    "path":"sprites/spr_tileset/spr_tileset.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":870,
+}

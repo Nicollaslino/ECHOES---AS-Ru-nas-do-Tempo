@@ -1,0 +1,1 @@
+sprite_index = choose(spr_rocha1, spr_rocha2);
